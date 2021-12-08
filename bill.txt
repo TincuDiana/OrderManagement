@@ -1,0 +1,12 @@
+
+Nr comanda: 1
+->ID client:4
+->ID produs: 6
+->Cantitatea: 2
+Total plata: 20
+
+Nr comanda: 2
+->ID client:3
+->ID produs: 3
+->Cantitatea: 12
+Total plata: 180
